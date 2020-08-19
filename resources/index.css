@@ -2,9 +2,13 @@
   font-family: Didot;
 }
 
+body {
+  background-color: #fcfbfa;
+}
+
 
 h1 {
-  color: lavender;
+  color: plum;
 }
 
 
