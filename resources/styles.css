@@ -177,9 +177,14 @@ html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:1
   }
   
   h1{
+    font-family: "Marcellus", serif;
     font-size:38px;
     line-height:44px;
     margin-top:20px
+  }
+
+  h1.article-title {
+    font-family: "Marcellus", serif;
   }
   
   h2{
@@ -312,7 +317,7 @@ html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:1
    h1 {
      margin-top: 0px;
      margin-bottom: 20px;
-     font-family: Roboto;
+     font-family: "Marcellus", serif;
      font-size: 35px;
      line-height: 40px;
      font-weight: 500;
