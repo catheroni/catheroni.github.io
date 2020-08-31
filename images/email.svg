@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="195px" height="195px" viewBox="0 0 195 195" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <path d="M97.5,195 L97.5,195 C43.7,195 0,151.3 0,97.5 L0,97.5 C0,43.7 43.7,0 97.5,0 L97.5,0 C151.3,0 195,43.7 195,97.5 L195,97.5 C195,151.3 151.3,195 97.5,195 Z" id="Path" fill="#000000" fill-rule="nonzero"></path>
+            <g filter="url(#filter-1)" id="ic24-email">
+                <g transform="translate(40.000000, 52.000000)">
+                    <path d="M97.75,0 C107.277175,0 115,7.7231125 115,17.25 L115,74.75 C115,84.277175 107.277175,92 97.75,92 L17.25,92 C7.7231125,92 0,84.277175 0,74.75 L0,17.25 C0,7.7231125 7.7231125,0 17.25,0 L97.75,0 Z M103.5,19.136 L61.286375,56.07745 C59.299175,57.81625 56.413825,57.96115 54.27655,56.51215 L53.713625,56.07745 L11.5,19.14175 L11.5,74.75 C11.5,77.925725 14.07439,80.5 17.25,80.5 L97.75,80.5 C100.925725,80.5 103.5,77.925725 103.5,74.75 L103.5,19.136 Z M94.76,11.5 L20.2285,11.5 L57.5,44.1094 L94.76,11.5 Z" id="Shape" fill="#000000"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
